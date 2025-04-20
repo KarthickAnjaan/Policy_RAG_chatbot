@@ -1,6 +1,6 @@
 # Policy_RAG_chatbot
 
-# 📄 LTN Assistant – PDF & Flowchart QA System
+# 📄 Chatbot Assistant – PDF & Flowchart QA System
 
 This project is an intelligent assistant built with **Flask**, powered by **Google Gemini 1.5 Pro**. It allows users to query information from a PDF document along with supporting flowchart images.
 
